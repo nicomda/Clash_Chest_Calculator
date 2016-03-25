@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Clash Chest Calculator</string>
+    <string name="total_wins">Total Wins</string>
+    <string name="silver_fragment">Silver</string>
+    <string name="gold_fragment">Gold</string>
+    <string name="giant_fragment">Giant</string>
+    <string name="magic_fragment">Magic</string>
+    <string name="next_chest">Next Chest Prediction</string>
+    <string name="error_number">Cannot predict. Try with a number.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
